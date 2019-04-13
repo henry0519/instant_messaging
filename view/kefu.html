@@ -1,0 +1,164 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <title>{$info.title}</title>
+        <link rel="stylesheet" href="{__STATIC__}/layim/css/layui.mobile.css" media="all">
+        
+        <style>
+        .layui-layim-tab li.layim-this {color: #a90005 !important;}
+        </style>
+    </head>
+    <body>
+        <script src="{__STATIC__}/layim/layui.js"></script>
+        <script src="{__STATIC__}/layim/lay/modules/jquery.js"></script>
+        <script>
+        layui.use(["mobile"], function () {
+            var mobile = layui.mobile,
+                layim = mobile.layim,
+                $ = layui.$;
+            //建立WebSocket通讯
+            var socket = new WebSocket('wss://wss');
+            let uid = {$info.lawyerid};
+            let lawyerid = 0;
+            let userlist = {$info.userlist|raw};
+            //连接成功时触发
+            //console.log(socket);
+            socket.onopen = function (res) {
+                console.log('Connect success'+getCurrentDate());
+                socket.send(JSON.stringify({
+                    'class': 'LayIm',
+                    'action': 'bind',
+                    'content': {
+                        'uid': uid,
+                        'lawyerid':lawyerid
+                    }
+                }));
+            };
+            //基础配置
+            layim.config({
+                init: {
+                    //设置我的基础信息
+                    mine: {
+                        "id":{$info.userinfo.id},
+                        "username":"{$info.userinfo.username}",
+                        "avatar":"{$info.userinfo.avatar}",
+                    }
+                    ,friend: [{
+                        "groupname": "用户列表",
+                        "id": 1,
+                        "list": userlist
+                    }]
+                },
+                //isgroup: false, //是否开启群组
+                brief: false, //简约模式
+                copyright: true,
+                title: '聊天室',
+                isNewFriend: false,
+                chatTitleColor: '#a90005'
+            });
+            //监听收到的消息
+            socket.onmessage = function (res) {
+                res = res.data;
+                res = JSON.parse(res);
+                console.log(res);
+                switch(res.action){
+                    case 'lawyer':
+                        console.log(res.lawyer)
+                        if(res.lawyer == true){
+                            console.log(res.lawyer)
+                            layim.chat(res.content);
+                        }else{
+                            alert('律师未入住');
+                            console.log('律师未入住');
+                        }
+                        break;
+                    case 'chatMessage':
+                        layim.getMessage(res.content);
+                        break;
+                    case 'addList':
+                        layim.addList(res.content);
+                        break;
+                }
+            };
+            socket.onclose = function(e) {
+                //alert("ws断开连接！");
+                console.log("服务器已关闭"+getCurrentDate());
+            }
+            //ready
+            layim.on('ready', function (options) {
+                console.log("Ready Go -->");
+                console.log(options);
+            });
+            layim.on('sendMessage', function(res){
+                if(socket.readyState == 3){
+                    alert('超时！连接已断开,请重新连接...');
+                    window.location.reload();
+                    return ;
+                }
+                var mine = res.mine; //包含我发送的消息及我的信息
+                socket.send(JSON.stringify({
+                    'class': 'LayIm',
+                    'action': 'chatMessage',
+                    'content': res
+                }));
+                
+            });
+            layim.on('chatChange', function(res){
+                console.log(res);
+                if(res.data.status == 'offline'){
+                    //alert('已下线'); 
+                    var content = res.data;
+                    content.system = true;
+                    content.content = '对方离线';
+                    layim.getMessage(content);
+                }
+            });
+            //online
+            layim.on('online', function (status) {
+                console.log(status); //获得online或者hide
+                //此时，你就可以通过Ajax将这个状态值记录到数据库中了。
+                //服务端接口需自写。
+            });
+
+            layim.on('chatlog', function(data, ul){
+              console.log(data); //得到当前会话对象的基本信息
+              console.log(ul); //得到当前聊天列表所在的ul容器，比如可以借助他来实现往上插入更多记录
+              $.post('/getchatlog', {data:data.id + '_' + uid,mine:uid}, function(res){
+                  if(res.status != 200 && res.status != 201 && res.status != 202){
+                      alert(res.msg);
+                      return ;
+                  }
+                  layim.panel({
+                    title: '与 '+ data.name +' 的聊天记录' //标题
+                    ,tpl: '{{d.data.message}}' //模版
+                    ,data: { //数据
+                      'message':res.data.html
+                    }
+                  });
+              });
+            });
+            
+            //获取当前日期时间 格式 yyyy-MM-dd HH:MM:SS
+            function getCurrentDate() {
+                var date = new Date();
+                var seperator1 = "-";
+                var seperator2 = ":";
+                var month = date.getMonth() + 1;
+                var strDate = date.getDate();
+                if (month >= 1 && month <= 9) {
+                month = "0" + month;
+                }
+                if (strDate >= 0 && strDate <= 9) {
+                strDate = "0" + strDate;
+                }
+                var currentdate = date.getFullYear() + seperator1 + month + seperator1 + strDate
+                + " " + date.getHours() + seperator2 + date.getMinutes()
+                + seperator2 + date.getSeconds();
+                return currentdate;
+            }
+        });
+        </script>
+    </body>
+</html>

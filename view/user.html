@@ -1,0 +1,128 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <title>与 {$info.title} 聊天</title>
+        <link rel="stylesheet" href="{__STATIC__}/layim/css/layui.mobile.css" media="all">
+        <style>
+            body .layim-title{display: none;}
+            body .layim-chat-main, body .layim-content, body .layui-layim{top: 0}
+        </style>
+    </head>
+    <body>
+        <script src="{__STATIC__}/layim/layui.js"></script>
+        <script src="{__STATIC__}/layim/lay/modules/jquery.js"></script>
+        <script>
+        layui.use(['mobile'], function () {
+            var mobile = layui.mobile,
+                layim = mobile.layim,
+                $ = layui.$;
+            //建立WebSocket通讯
+            var socket = new WebSocket('wss://wss');
+            let uid = {$info.uid};
+            let lawyerid = {$info.lawyerid};
+            //连接成功时触发
+            socket.onopen = function (res) {
+                socket.send(JSON.stringify({
+                    'class': 'LayIm',
+                    'action': 'bind',
+                    'content': {
+                        'uid': uid,
+                        'lawyerid':lawyerid
+                    }
+                }));
+            };
+            //基础配置
+            layim.config({
+                init: {
+                    mine: {
+                        "id":{$info.userinfo.id},
+                        "username":"{$info.userinfo.username}",
+                        "avatar":"{$info.userinfo.avatar}",
+                    }
+                },
+                //isgroup: false, //是否开启群组
+                brief: true, //简约模式
+                copyright: true,
+            });
+            
+            //监听收到的消息
+            socket.onmessage = function (res) {
+                //console.log(res);
+                res = res.data;
+                res = JSON.parse(res);
+                switch(res.action){
+                    case 'lawyer':
+                        if(res.lawyer == true){
+                            layim.chat(res.content);
+                        }else{
+                            //alert('律师未入住');
+                            console.log('律师未入住');
+                        }
+                        break;
+                    case 'chatMessage':
+                        console.log(res);
+                        layim.getMessage(res.content);
+                        
+                        break;
+                    case 'addList':
+                        layim.addList(res.content);
+                        break;
+                }
+            };
+            socket.onclose = function(e) {
+                //alert("ws断开连接！");
+                console.log("服务器已关闭");
+            }
+            //ready
+            layim.on('ready', function (options) {
+                //do something
+                console.log("Ready Go-->");
+                console.log(options);
+            });
+            layim.on('sendMessage', function(res){
+                if(socket.readyState == 3){
+                    alert('超时！连接已断开,请重新连接...');
+                    window.location.reload();
+                    return ;
+                }
+                var mine = res.mine; //包含我发送的消息及我的信息
+                socket.send(JSON.stringify({
+                    'class': 'LayIm',
+                    'action': 'chatMessage',
+                    'content': res
+                }));
+            });
+            layim.on('chatChange', function(res){
+                if(res.data.status == 'offline'){
+                    //alert('已下线'); 
+                }
+            });
+            
+            layim.on('chatlog', function(data, ul){
+              $.post('/getchatlog', {data:uid+'_'+data.id,mine:uid}, function(res){
+                  if(res.status != 200 && res.status != 201 && res.status != 202){
+                      alert(res.msg);
+                      return ;
+                  }
+                  layim.panel({
+                    title: '与 '+ data.name +' 的聊天记录' //标题
+                    ,tpl: '{{d.data.message}}' //模版
+                    ,data: { //数据
+                      'message':res.data.html
+                    }
+                  });
+              });
+            });
+            
+            //online
+            layim.on('online', function (status) {
+                console.log(status); //获得online或者hide
+                //此时，你就可以通过Ajax将这个状态值记录到数据库中了。
+                //服务端接口需自写。
+            });
+        });
+        </script>
+    </body>
+</html>

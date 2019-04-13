@@ -1,0 +1,161 @@
+[2019-04-09 15:52:11][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:36]Undefined index: mine
+[2019-04-09 15:59:20][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:23]Undefined index: identity
+[2019-04-10 15:37:17][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:29]Undefined index: id
+[2019-04-10 15:37:17][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:30]Undefined index: username
+[2019-04-10 15:37:17][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:32]Undefined index: avatar
+[2019-04-10 15:38:38][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:29]Undefined index: id
+[2019-04-10 15:38:38][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:30]Undefined index: username
+[2019-04-10 15:38:38][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:32]Undefined index: avatar
+[2019-04-10 15:44:22][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:28]Undefined index: id
+[2019-04-10 15:44:22][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:29]Undefined index: username
+[2019-04-10 15:44:22][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:31]Undefined index: avatar
+[2019-04-10 15:45:33][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:30]Undefined index: id
+[2019-04-10 15:45:33][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:31]Undefined index: username
+[2019-04-10 15:45:33][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:33]Undefined index: avatar
+[2019-04-10 15:46:23][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:29]Undefined index: avatar
+[2019-04-10 15:46:23][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:31]Undefined index: id
+[2019-04-10 15:46:23][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:32]Undefined index: username
+[2019-04-10 15:46:23][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:34]Undefined index: avatar
+[2019-04-10 15:49:55][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:29]Undefined index: avatar
+[2019-04-10 15:49:55][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:31]Undefined index: id
+[2019-04-10 15:49:55][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:32]Undefined index: username
+[2019-04-10 15:49:55][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:34]Undefined index: avatar
+[2019-04-10 15:50:36][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:28]Undefined index: avatar
+[2019-04-10 15:50:36][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:30]Undefined index: avatar
+[2019-04-10 15:50:36][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:32]Undefined index: id
+[2019-04-10 15:50:36][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:33]Undefined index: username
+[2019-04-10 15:50:36][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:35]Undefined index: avatar
+[2019-04-10 15:51:30][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:28]Undefined index: avatar
+[2019-04-10 15:51:30][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:30]Array to string conversion
+[2019-04-10 15:51:30][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:32]Undefined index: id
+[2019-04-10 15:51:30][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:33]Undefined index: username
+[2019-04-10 15:51:30][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:35]Undefined index: avatar
+[2019-04-10 15:57:21][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:30]Undefined index: avatar
+[2019-04-10 15:57:21][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:34]Undefined index: id
+[2019-04-10 15:57:21][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:35]Undefined index: username
+[2019-04-10 15:57:21][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:37]Undefined index: avatar
+[2019-04-10 15:57:21][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:39]Array to string conversion
+[2019-04-10 15:59:10][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:30]Undefined index: avatar
+[2019-04-10 15:59:10][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:34]Undefined index: id
+[2019-04-10 15:59:10][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:35]Undefined index: username
+[2019-04-10 15:59:10][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:37]Undefined index: avatar
+[2019-04-10 16:29:36][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:60]Undefined variable: lawyerinfo
+[2019-04-10 16:34:08][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php][line:116]Serialization of closure failed: Serialization of 'Swoole\WebSocket\Server' is not allowed
+[2019-04-10 16:35:01][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php][line:116]Serialization of closure failed: Serialization of 'Swoole\WebSocket\Server' is not allowed
+[2019-04-10 16:37:09][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code][line:4]Undefined variable: lawyerinfo
+[2019-04-10 16:38:52][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code][line:4]Undefined variable: lawyerinfo
+[2019-04-10 16:41:00][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code][line:5]Undefined variable: system
+[2019-04-10 16:41:39][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code][line:5]Undefined variable: system
+[2019-04-10 16:47:13][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code][line:4]Undefined variable: data
+[2019-04-10 16:47:44][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code][line:4]Undefined variable: data
+[2019-04-10 16:47:45][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code][line:4]Undefined variable: data
+[2019-04-10 16:49:29][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code][line:4]Undefined variable: datastr
+[2019-04-10 16:56:11][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code][line:4]Undefined variable: aaa
+[2019-04-10 16:56:32][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code][line:4]Undefined variable: aaa
+[2019-04-10 16:57:43][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php][line:116]Serialization of closure failed: Serialization of 'Swoole\WebSocket\Server' is not allowed
+[2019-04-10 16:58:21][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php][line:116]Serialization of closure failed: Serialization of 'Swoole\WebSocket\Server' is not allowed
+[2019-04-10 17:45:01][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php][line:116]Serialization of closure failed: The closure was not found within the abstract syntax tree.
+[2019-04-10 17:49:26][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php][line:116]Serialization of closure failed: The closure was not found within the abstract syntax tree.
+[2019-04-10 17:49:53][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php][line:116]Serialization of closure failed: The closure was not found within the abstract syntax tree.
+[2019-04-10 17:50:31][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php][line:116]Serialization of closure failed: The closure was not found within the abstract syntax tree.
+[2019-04-10 17:51:58][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php][line:116]Serialization of closure failed: The closure was not found within the abstract syntax tree.
+[2019-04-10 17:53:18][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php][line:116]Serialization of closure failed: The closure was not found within the abstract syntax tree.
+[2019-04-10 17:53:40][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php][line:116]Serialization of closure failed: The closure was not found within the abstract syntax tree.
+[2019-04-10 17:53:41][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php][line:116]Serialization of closure failed: The closure was not found within the abstract syntax tree.
+[2019-04-10 17:54:15][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php][line:116]Serialization of closure failed: The closure was not found within the abstract syntax tree.
+[2019-04-10 17:54:54][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php][line:116]Serialization of closure failed: The closure was not found within the abstract syntax tree.
+[2019-04-10 17:55:11][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php][line:116]Serialization of closure failed: The closure was not found within the abstract syntax tree.
+[2019-04-10 17:55:31][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php][line:116]Serialization of closure failed: The closure was not found within the abstract syntax tree.
+[2019-04-10 17:55:46][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php][line:116]Serialization of closure failed: The closure was not found within the abstract syntax tree.
+[2019-04-10 17:56:59][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php][line:116]Serialization of closure failed: The closure was not found within the abstract syntax tree.
+[2019-04-10 17:57:51][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php][line:116]Serialization of closure failed: The closure was not found within the abstract syntax tree.
+[2019-04-10 17:58:45][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:50]Undefined index: status
+[2019-04-10 18:00:56][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:48]Undefined index: status
+[2019-04-10 18:01:31][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:48]Undefined index: status
+[2019-04-10 18:03:02][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:36]Undefined variable: lawyer
+[2019-04-10 18:05:27][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:51]Undefined index: status
+[2019-04-10 18:06:30][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:47]Undefined index: status
+[2019-04-10 18:07:13][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:54]Undefined index: status
+[2019-04-10 18:08:00][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:55]Undefined index: status
+[2019-04-10 18:10:20][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php][line:116]Serialization of closure failed: The closure was not found within the abstract syntax tree.
+[2019-04-10 18:10:32][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php][line:116]Serialization of closure failed: The closure was not found within the abstract syntax tree.
+[2019-04-10 18:25:01][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code][line:3]Undefined variable: Args
+[2019-04-11 09:02:48][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code][line:4]Undefined variable: message
+[2019-04-11 09:03:16][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code][line:4]Undefined variable: message
+[2019-04-11 09:06:17][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php][line:116]Serialization of closure failed: The closure was not found within the abstract syntax tree.
+[2019-04-11 09:44:52][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:56]Undefined variable: chatinfo
+[2019-04-11 09:44:52][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:57]Undefined variable: chatid
+[2019-04-11 09:44:57][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:56]Undefined variable: chatinfo
+[2019-04-11 09:44:57][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:57]Undefined variable: chatid
+[2019-04-11 09:45:04][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:56]Undefined variable: chatinfo
+[2019-04-11 09:45:04][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:57]Undefined variable: chatid
+[2019-04-11 09:49:39][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php][line:116]Serialization of closure failed: The closure was not found within the abstract syntax tree.
+[2019-04-11 10:47:43][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:50]Undefined variable: chatinfo
+[2019-04-11 10:49:25][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:50]Undefined variable: chatinfo
+[2019-04-11 10:50:13][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:50]Undefined variable: chatinfo
+[2019-04-11 10:50:29][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:50]Undefined variable: chatinfo
+[2019-04-11 11:16:43][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:50]Undefined variable: chatinfo
+[2019-04-11 11:17:01][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:50]Undefined variable: chatinfo
+[2019-04-11 11:20:16][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:50]Undefined variable: chatinfo
+[2019-04-11 12:03:02][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:50]Undefined variable: chatinfo
+[2019-04-11 12:04:34][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:50]Undefined variable: chatinfo
+[2019-04-11 12:07:22][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:78]Undefined variable: chatid
+[2019-04-11 12:11:55][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:78]Undefined variable: chatinfo
+[2019-04-11 13:03:26][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code][line:4]Undefined index: avatar
+[2019-04-11 13:03:26][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code][line:4]Undefined index: status
+[2019-04-11 13:03:26][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code][line:4]Undefined index: status
+[2019-04-11 13:03:28][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code][line:4]Undefined index: avatar
+[2019-04-11 13:03:28][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code][line:4]Undefined index: status
+[2019-04-11 13:03:28][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code][line:4]Undefined index: status
+[2019-04-11 13:04:25][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code][line:4]Undefined index: status
+[2019-04-11 13:04:27][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code][line:4]Undefined index: status
+[2019-04-11 13:04:28][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code][line:4]Undefined index: status
+[2019-04-11 13:07:55][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php][line:116]Serialization of closure failed: The closure was not found within the abstract syntax tree.
+[2019-04-11 13:07:59][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php][line:116]Serialization of closure failed: The closure was not found within the abstract syntax tree.
+[2019-04-11 13:08:27][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php][line:116]Serialization of closure failed: The closure was not found within the abstract syntax tree.
+[2019-04-11 13:08:29][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php][line:116]Serialization of closure failed: The closure was not found within the abstract syntax tree.
+[2019-04-11 13:12:15][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:75]Undefined index: status
+[2019-04-11 13:13:10][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:75]Undefined index: status
+[2019-04-11 13:14:28][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:59]Undefined index: status
+[2019-04-11 14:06:48][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:34]Undefined variable: chatinfo
+[2019-04-11 14:07:54][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:34]Undefined variable: chatinfo
+[2019-04-11 14:08:26][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:34]Undefined variable: chatinfo
+[2019-04-11 14:14:05][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php][line:116]Serialization of closure failed: The closure was not found within the abstract syntax tree.
+[2019-04-11 14:15:16][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:34]Undefined variable: chatinfo
+[2019-04-11 14:15:32][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:34]Undefined variable: chatinfo
+[2019-04-11 14:15:59][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:34]Undefined variable: chatinfo
+[2019-04-11 14:42:15][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:34]Undefined variable: chatinfo
+[2019-04-11 14:46:06][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:34]Undefined variable: chatinfo
+[2019-04-11 14:46:11][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:34]Undefined variable: chatinfo
+[2019-04-11 14:46:52][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:34]Undefined variable: chatinfo
+[2019-04-11 16:31:01][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:27]Undefined variable: client_id
+[2019-04-11 16:31:01][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:28]Undefined variable: user
+[2019-04-11 16:31:41][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:27]Undefined variable: client_id
+[2019-04-11 16:31:41][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:28]Undefined variable: user
+[2019-04-11 16:32:14][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:27]Undefined variable: client_id
+[2019-04-11 16:32:14][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:28]Undefined variable: user
+[2019-04-11 16:44:04][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php][line:116]Serialization of closure failed: The closure was not found within the abstract syntax tree.
+[2019-04-11 16:44:06][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php][line:116]Serialization of closure failed: The closure was not found within the abstract syntax tree.
+[2019-04-11 16:44:15][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php][line:116]Serialization of closure failed: The closure was not found within the abstract syntax tree.
+[2019-04-11 17:01:27][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:84]Undefined variable: get_id
+[2019-04-11 17:01:33][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:88]Undefined variable: get_id
+[2019-04-11 17:01:39][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:84]Undefined variable: get_id
+[2019-04-11 17:01:50][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:88]Undefined variable: get_id
+[2019-04-11 17:02:06][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:88]Undefined variable: get_id
+[2019-04-11 17:02:23][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:88]Undefined variable: get_id
+[2019-04-11 17:02:29][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:88]Undefined variable: get_id
+[2019-04-11 17:04:03][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:84]Undefined variable: get_id
+[2019-04-11 17:05:40][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:105]Undefined index: status
+[2019-04-11 17:05:42][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:105]Undefined index: status
+[2019-04-11 17:29:44][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/HttpController/Index.php][line:34]Undefined variable: db
+[2019-04-11 18:38:36][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/HttpController/Index.php][line:38]Undefined index: id
+[2019-04-11 18:47:01][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/HttpController/Index.php][line:61]Undefined variable: insert_id
+[2019-04-11 18:47:03][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/HttpController/Index.php][line:61]Undefined variable: insert_id
+[2019-04-11 18:47:03][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/HttpController/Index.php][line:61]Undefined variable: insert_id
+[2019-04-11 18:47:04][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/HttpController/Index.php][line:61]Undefined variable: insert_id
+[2019-04-11 18:47:04][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/HttpController/Index.php][line:61]Undefined variable: insert_id
+[2019-04-11 18:47:04][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/HttpController/Index.php][line:61]Undefined variable: insert_id
+[2019-04-11 18:47:04][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/HttpController/Index.php][line:61]Undefined variable: insert_id
+[2019-04-11 18:47:17][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/HttpController/Index.php][line:61]Undefined variable: insert_id
+[2019-04-11 19:04:11][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:119]Undefined variable: redis
+[2019-04-11 19:05:09][Notice][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:133]Undefined variable: id

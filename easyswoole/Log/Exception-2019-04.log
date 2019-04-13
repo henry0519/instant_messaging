@@ -1,0 +1,13 @@
+[2019-04-10 11:26:10][Exception][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/HttpController/Index.php][line:21]swoole exit.
+[2019-04-10 11:26:15][Exception][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/HttpController/Index.php][line:21]swoole exit.
+[2019-04-11 09:01:12][Exception][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/HttpController/Index.php][line:21]swoole exit.
+[2019-04-11 17:25:19][Exception][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/HttpController/Index.php][line:21]swoole exit.
+[2019-04-11 17:25:35][Exception][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/HttpController/Index.php][line:21]swoole exit.
+[2019-04-11 17:25:36][Exception][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/HttpController/Index.php][line:21]swoole exit.
+[2019-04-11 17:25:36][Exception][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/HttpController/Index.php][line:21]swoole exit.
+[2019-04-11 17:25:37][Exception][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/HttpController/Index.php][line:21]swoole exit.
+[2019-04-11 17:25:37][Exception][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/HttpController/Index.php][line:21]swoole exit.
+[2019-04-11 17:30:14][Exception][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/HttpController/Index.php][line:34]Class 'App\HttpController\Mysqli' not found
+[2019-04-11 18:11:04][Exception][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/mysqli/src/Mysqli.php][line:106]unknown charset [utf8_general_ci].
+[2019-04-11 18:11:23][Exception][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/mysqli/src/Mysqli.php][line:106]unknown charset [utf8_general_ci].
+[2019-04-11 18:36:40][Exception][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/mysqli/src/Mysqli.php][line:1521]You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '82 ?' at line 1 query: SELECT  * FROM yt_lawyer WHERE  id 82 ? 

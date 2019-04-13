@@ -1,0 +1,262 @@
+[2019-04-10 16:34:08][FatalError][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php][line:110]Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe
+[2019-04-10 16:35:01][FatalError][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php][line:110]Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe
+[2019-04-10 16:57:43][FatalError][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php][line:110]Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe
+[2019-04-10 16:58:21][FatalError][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php][line:110]Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe
+[2019-04-10 17:45:01][FatalError][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php][line:110]Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe
+[2019-04-10 17:49:26][FatalError][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php][line:110]Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe
+[2019-04-10 17:49:53][FatalError][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php][line:110]Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe
+[2019-04-10 17:50:31][FatalError][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php][line:110]Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe
+[2019-04-10 17:51:58][FatalError][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php][line:110]Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe
+[2019-04-10 17:53:18][FatalError][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php][line:110]Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe
+[2019-04-10 17:53:40][FatalError][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php][line:110]Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe
+[2019-04-10 17:53:41][FatalError][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php][line:110]Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe
+[2019-04-10 17:54:15][FatalError][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php][line:110]Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe
+[2019-04-10 17:54:54][FatalError][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php][line:110]Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe
+[2019-04-10 17:55:11][FatalError][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php][line:110]Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe
+[2019-04-10 17:55:31][FatalError][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php][line:110]Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe
+[2019-04-10 17:55:46][FatalError][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php][line:110]Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe
+[2019-04-10 17:56:59][FatalError][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php][line:110]Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe
+[2019-04-10 17:57:51][FatalError][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php][line:110]Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe
+[2019-04-10 18:10:20][FatalError][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php][line:110]Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe
+[2019-04-10 18:10:32][FatalError][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php][line:110]Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe
+[2019-04-11 08:42:55][FatalError][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php][line:59]Uncaught Swoole\Exception: failed to listen server port[0.0.0.0:9506]. Error: Address already in use[98]. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php:59
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(59): Swoole\Server->__construct('0.0.0.0', 9506, 2, 1)
+#1 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(121): EasySwoole\EasySwoole\ServerManager->createSwooleServer(9506, 3, '0.0.0.0', Array, 2, 1)
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook(
+[2019-04-11 09:06:17][FatalError][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php][line:110]Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe
+[2019-04-11 09:49:39][FatalError][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php][line:110]Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe
+[2019-04-11 13:07:55][FatalError][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php][line:110]Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe
+[2019-04-11 13:07:59][FatalError][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php][line:110]Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe
+[2019-04-11 13:08:27][FatalError][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php][line:110]Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe
+[2019-04-11 13:08:29][FatalError][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php][line:110]Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe
+[2019-04-11 14:14:05][FatalError][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php][line:110]Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe
+[2019-04-11 16:44:04][FatalError][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php][line:110]Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe
+[2019-04-11 16:44:06][FatalError][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php][line:110]Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe
+[2019-04-11 16:44:15][FatalError][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php][line:110]Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe
+[2019-04-13 09:34:11][FatalError][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php][line:59]Uncaught Swoole\Exception: failed to listen server port[0.0.0.0:9506]. Error: Address already in use[98]. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php:59
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(59): Swoole\Server->__construct('0.0.0.0', 9506, 2, 1)
+#1 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(121): EasySwoole\EasySwoole\ServerManager->createSwooleServer(9506, 3, '0.0.0.0', Array, 2, 1)
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(52): EasySwoole\EasySwoole\Command\CommandContainer->hook(

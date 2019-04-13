@@ -1,0 +1,530 @@
+[2019-04-09 15:52:11 $11354.0]	WARNING	swManager_check_exit_status: worker#0[pid=11359] abnormal exit, status=255, signal=0
+[2019-04-09 15:52:44 $11391.0]	WARNING	swManager_check_exit_status: worker#0[pid=11396] abnormal exit, status=255, signal=0
+[2019-04-09 18:06:18 ^13140.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1.
+[2019-04-09 18:06:18 ^13140.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1.
+[2019-04-09 18:06:18 $13136.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1.
+[2019-04-09 18:06:18 *13142.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1.
+[2019-04-09 18:06:18 ^13139.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1.
+[2019-04-09 18:06:18 #13135.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1.
+[2019-04-09 18:06:18 *13141.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1.
+[2019-04-10 08:49:18 $13136.0]	WARNING	swManager_check_exit_status: worker#0[pid=13141] abnormal exit, status=255, signal=0
+[2019-04-10 08:49:22 $13136.0]	WARNING	swManager_check_exit_status: worker#0[pid=28967] abnormal exit, status=255, signal=0
+[2019-04-10 08:49:33 $13136.0]	WARNING	swManager_check_exit_status: worker#0[pid=28971] abnormal exit, status=255, signal=0
+[2019-04-10 13:23:30 $11123.0]	WARNING	swManager_check_exit_status: worker#1[pid=11129] abnormal exit, status=255, signal=0
+[2019-04-10 13:23:30 $11123.0]	WARNING	swManager_check_exit_status: worker#1[pid=11205] abnormal exit, status=255, signal=0
+[2019-04-10 13:24:37 $11123.0]	WARNING	swManager_check_exit_status: worker#0[pid=11128] abnormal exit, status=255, signal=0
+[2019-04-10 13:24:49 $11123.0]	WARNING	swManager_check_exit_status: worker#0[pid=11261] abnormal exit, status=255, signal=0
+[2019-04-10 13:25:36 $11123.0]	WARNING	swManager_check_exit_status: worker#0[pid=11272] abnormal exit, status=255, signal=0
+[2019-04-10 13:26:42 $11123.0]	WARNING	swManager_check_exit_status: worker#0[pid=11310] abnormal exit, status=255, signal=0
+[2019-04-10 16:34:08 ^20792.2]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php on line 110.
+[2019-04-10 16:34:08 $20789.0]	WARNING	swManager_check_exit_status: worker#2[pid=20792] abnormal exit, status=255, signal=0
+[2019-04-10 16:35:01 ^20843.2]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php on line 110.
+[2019-04-10 16:35:01 $20840.0]	WARNING	swManager_check_exit_status: worker#2[pid=20843] abnormal exit, status=255, signal=0
+[2019-04-10 16:44:52 $21400.0]	WARNING	swManager_check_exit_status: worker#0[pid=21405] abnormal exit, status=255, signal=0
+[2019-04-10 16:45:17 $21429.0]	WARNING	swManager_check_exit_status: worker#0[pid=21434] abnormal exit, status=255, signal=0
+[2019-04-10 16:57:43 ^22110.2]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php on line 110.
+[2019-04-10 16:57:43 $22107.0]	WARNING	swManager_check_exit_status: worker#2[pid=22110] abnormal exit, status=255, signal=0
+[2019-04-10 16:58:21 ^22151.2]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php on line 110.
+[2019-04-10 16:58:21 $22148.0]	WARNING	swManager_check_exit_status: worker#2[pid=22151] abnormal exit, status=255, signal=0
+[2019-04-10 17:45:01 ^22484.3]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php on line 110.
+[2019-04-10 17:45:01 $22480.0]	WARNING	swManager_check_exit_status: worker#3[pid=22484] abnormal exit, status=255, signal=0
+[2019-04-10 17:49:26 ^22483.2]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php on line 110.
+[2019-04-10 17:49:26 $22480.0]	WARNING	swManager_check_exit_status: worker#2[pid=22483] abnormal exit, status=255, signal=0
+[2019-04-10 17:49:53 ^24497.3]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php on line 110.
+[2019-04-10 17:49:53 $22480.0]	WARNING	swManager_check_exit_status: worker#3[pid=24497] abnormal exit, status=255, signal=0
+[2019-04-10 17:50:31 ^24713.2]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php on line 110.
+[2019-04-10 17:50:31 $22480.0]	WARNING	swManager_check_exit_status: worker#2[pid=24713] abnormal exit, status=255, signal=0
+[2019-04-10 17:51:58 ^24735.3]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php on line 110.
+[2019-04-10 17:51:58 $22480.0]	WARNING	swManager_check_exit_status: worker#3[pid=24735] abnormal exit, status=255, signal=0
+[2019-04-10 17:53:18 ^24771.2]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php on line 110.
+[2019-04-10 17:53:18 $22480.0]	WARNING	swManager_check_exit_status: worker#2[pid=24771] abnormal exit, status=255, signal=0
+[2019-04-10 17:53:40 ^24842.3]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php on line 110.
+[2019-04-10 17:53:40 $22480.0]	WARNING	swManager_check_exit_status: worker#3[pid=24842] abnormal exit, status=255, signal=0
+[2019-04-10 17:53:41 ^24907.2]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php on line 110.
+[2019-04-10 17:53:41 $22480.0]	WARNING	swManager_check_exit_status: worker#2[pid=24907] abnormal exit, status=255, signal=0
+[2019-04-10 17:54:15 ^24926.3]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php on line 110.
+[2019-04-10 17:54:15 $22480.0]	WARNING	swManager_check_exit_status: worker#3[pid=24926] abnormal exit, status=255, signal=0
+[2019-04-10 17:54:54 ^24927.2]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php on line 110.
+[2019-04-10 17:54:54 $22480.0]	WARNING	swManager_check_exit_status: worker#2[pid=24927] abnormal exit, status=255, signal=0
+[2019-04-10 17:55:11 ^24956.3]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php on line 110.
+[2019-04-10 17:55:11 $22480.0]	WARNING	swManager_check_exit_status: worker#3[pid=24956] abnormal exit, status=255, signal=0
+[2019-04-10 17:55:31 ^24991.2]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php on line 110.
+[2019-04-10 17:55:31 $22480.0]	WARNING	swManager_check_exit_status: worker#2[pid=24991] abnormal exit, status=255, signal=0
+[2019-04-10 17:55:46 ^25005.3]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php on line 110.
+[2019-04-10 17:55:46 $22480.0]	WARNING	swManager_check_exit_status: worker#3[pid=25005] abnormal exit, status=255, signal=0
+[2019-04-10 17:56:59 ^25022.2]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php on line 110.
+[2019-04-10 17:56:59 $22480.0]	WARNING	swManager_check_exit_status: worker#2[pid=25022] abnormal exit, status=255, signal=0
+[2019-04-10 17:57:51 ^25036.3]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php on line 110.
+[2019-04-10 17:57:51 $22480.0]	WARNING	swManager_check_exit_status: worker#3[pid=25036] abnormal exit, status=255, signal=0
+[2019-04-10 18:10:20 ^25726.3]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php on line 110.
+[2019-04-10 18:10:20 $25722.0]	WARNING	swManager_check_exit_status: worker#3[pid=25726] abnormal exit, status=255, signal=0
+[2019-04-10 18:10:32 ^25725.2]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php on line 110.
+[2019-04-10 18:10:32 $25722.0]	WARNING	swManager_check_exit_status: worker#2[pid=25725] abnormal exit, status=255, signal=0
+[2019-04-10 20:43:47 *26665.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1.
+[2019-04-10 20:43:47 ^26662.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1.
+[2019-04-10 20:43:47 ^26663.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1.
+[2019-04-10 20:43:47 #26657.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1.
+[2019-04-10 20:43:47 *26664.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1.
+[2019-04-10 20:43:47 $26658.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1.
+[2019-04-10 20:43:47 *26665.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1.
+[2019-04-11 06:33:10 $26658.0]	WARNING	swManager_check_exit_status: worker#0[pid=26664] abnormal exit, status=255, signal=0
+[2019-04-11 09:06:17 ^5238.2]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php on line 110.
+[2019-04-11 09:06:17 $5235.0]	WARNING	swManager_check_exit_status: worker#2[pid=5238] abnormal exit, status=255, signal=0
+[2019-04-11 09:49:39 ^7355.3]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php on line 110.
+[2019-04-11 09:49:39 $7351.0]	WARNING	swManager_check_exit_status: worker#3[pid=7355] abnormal exit, status=255, signal=0
+[2019-04-11 13:07:55 ^17223.3]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php on line 110.
+[2019-04-11 13:07:55 $17219.0]	WARNING	swManager_check_exit_status: worker#3[pid=17223] abnormal exit, status=255, signal=0
+[2019-04-11 13:07:59 ^17222.2]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php on line 110.
+[2019-04-11 13:07:59 $17219.0]	WARNING	swManager_check_exit_status: worker#2[pid=17222] abnormal exit, status=255, signal=0
+[2019-04-11 13:08:27 ^17365.3]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php on line 110.
+[2019-04-11 13:08:27 $17219.0]	WARNING	swManager_check_exit_status: worker#3[pid=17365] abnormal exit, status=255, signal=0
+[2019-04-11 13:08:29 ^17370.2]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php on line 110.
+[2019-04-11 13:08:29 $17219.0]	WARNING	swManager_check_exit_status: worker#2[pid=17370] abnormal exit, status=255, signal=0
+[2019-04-11 14:14:05 ^19997.3]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php on line 110.
+[2019-04-11 14:14:05 $19993.0]	WARNING	swManager_check_exit_status: worker#3[pid=19997] abnormal exit, status=255, signal=0
+[2019-04-11 16:44:04 ^27906.2]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php on line 110.
+[2019-04-11 16:44:04 $27903.0]	WARNING	swManager_check_exit_status: worker#2[pid=27906] abnormal exit, status=255, signal=0
+[2019-04-11 16:44:06 ^27907.3]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php on line 110.
+[2019-04-11 16:44:06 $27903.0]	WARNING	swManager_check_exit_status: worker#3[pid=27907] abnormal exit, status=255, signal=0
+[2019-04-11 16:44:15 ^28308.2]	ERROR	zm_deactivate_swoole (ERRNO 503): Fatal error: Uncaught SuperClosure\Exception\ClosureUnserializationException: The closure did not unserialize to a SuperClosure. in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php:110
+Stack trace:
+#0 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php(33): SuperClosure\Serializer->unserialize('N;')
+#1 [internal function]: EasySwoole\EasySwoole\Swoole\Task\SuperClosure->__wakeup()
+#2 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(109): Swoole\Server->start()
+#3 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Core.php(138): EasySwoole\EasySwoole\ServerManager->start()
+#4 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(98): EasySwoole\EasySwoole\Core->start()
+#5 /www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(44): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exe in /www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/Serializer.php on line 110.
+[2019-04-11 16:44:15 $27903.0]	WARNING	swManager_check_exit_status: worker#2[pid=28308] abnormal exit, status=255, signal=0
+[2019-04-11 18:04:31 $32360.0]	WARNING	swManager_check_exit_status: worker#0[pid=32365] abnormal exit, status=255, signal=0
+[2019-04-11 18:04:31 $32360.0]	WARNING	swManager_check_exit_status: worker#1[pid=32366] abnormal exit, status=255, signal=0
+[2019-04-11 18:05:01 $32360.0]	WARNING	swManager_check_exit_status: worker#0[pid=32392] abnormal exit, status=255, signal=0
+[2019-04-11 18:05:01 $32360.0]	WARNING	swManager_check_exit_status: worker#1[pid=32393] abnormal exit, status=255, signal=0
+[2019-04-11 18:05:31 $32360.0]	WARNING	swManager_check_exit_status: worker#0[pid=32418] abnormal exit, status=255, signal=0
+[2019-04-11 18:05:31 $32360.0]	WARNING	swManager_check_exit_status: worker#1[pid=32419] abnormal exit, status=255, signal=0
+[2019-04-11 18:06:01 $32360.0]	WARNING	swManager_check_exit_status: worker#0[pid=32444] abnormal exit, status=255, signal=0
+[2019-04-11 18:06:02 $32360.0]	WARNING	swManager_check_exit_status: worker#1[pid=32445] abnormal exit, status=255, signal=0
+[2019-04-11 18:06:32 $32360.0]	WARNING	swManager_check_exit_status: worker#0[pid=32470] abnormal exit, status=255, signal=0
+[2019-04-11 18:06:32 $32360.0]	WARNING	swManager_check_exit_status: worker#1[pid=32471] abnormal exit, status=255, signal=0
+[2019-04-11 18:07:02 $32360.0]	WARNING	swManager_check_exit_status: worker#0[pid=32496] abnormal exit, status=255, signal=0
+[2019-04-11 18:07:02 $32360.0]	WARNING	swManager_check_exit_status: worker#1[pid=32497] abnormal exit, status=255, signal=0
+[2019-04-11 18:07:49 $32538.0]	WARNING	swManager_check_exit_status: worker#1[pid=32544] abnormal exit, status=255, signal=0
+[2019-04-11 18:07:49 $32538.0]	WARNING	swManager_check_exit_status: worker#0[pid=32543] abnormal exit, status=255, signal=0
+[2019-04-11 18:08:19 $32538.0]	WARNING	swManager_check_exit_status: worker#0[pid=32570] abnormal exit, status=255, signal=0
+[2019-04-11 18:08:19 $32538.0]	WARNING	swManager_check_exit_status: worker#1[pid=32569] abnormal exit, status=255, signal=0
+[2019-04-11 18:08:49 $32538.0]	WARNING	swManager_check_exit_status: worker#0[pid=32595] abnormal exit, status=255, signal=0
+[2019-04-11 18:08:49 $32538.0]	WARNING	swManager_check_exit_status: worker#1[pid=32597] abnormal exit, status=255, signal=0
+[2019-04-11 18:09:19 $32538.0]	WARNING	swManager_check_exit_status: worker#0[pid=32621] abnormal exit, status=255, signal=0
+[2019-04-11 18:09:19 $32538.0]	WARNING	swManager_check_exit_status: worker#1[pid=32623] abnormal exit, status=255, signal=0
+[2019-04-11 18:09:49 $32538.0]	WARNING	swManager_check_exit_status: worker#0[pid=32648] abnormal exit, status=255, signal=0
+[2019-04-11 18:09:49 $32538.0]	WARNING	swManager_check_exit_status: worker#1[pid=32649] abnormal exit, status=255, signal=0
+[2019-04-11 18:10:32 $32692.0]	WARNING	swManager_check_exit_status: worker#0[pid=32697] abnormal exit, status=255, signal=0
+[2019-04-11 18:10:32 $32692.0]	WARNING	swManager_check_exit_status: worker#1[pid=32698] abnormal exit, status=255, signal=0
+[2019-04-11 18:11:02 $32692.0]	WARNING	swManager_check_exit_status: worker#0[pid=32723] abnormal exit, status=255, signal=0
+[2019-04-11 18:11:02 $32692.0]	WARNING	swManager_check_exit_status: worker#1[pid=32724] abnormal exit, status=255, signal=0
+[2019-04-11 18:11:32 $32692.0]	WARNING	swManager_check_exit_status: worker#0[pid=32749] abnormal exit, status=255, signal=0
+[2019-04-11 18:11:32 $32692.0]	WARNING	swManager_check_exit_status: worker#1[pid=32750] abnormal exit, status=255, signal=0
+[2019-04-11 18:12:36 $371.0]	WARNING	swManager_check_exit_status: worker#0[pid=376] abnormal exit, status=255, signal=0
+[2019-04-11 18:12:36 $371.0]	WARNING	swManager_check_exit_status: worker#1[pid=377] abnormal exit, status=255, signal=0
+[2019-04-11 18:13:06 $371.0]	WARNING	swManager_check_exit_status: worker#0[pid=402] abnormal exit, status=255, signal=0
+[2019-04-11 18:13:06 $371.0]	WARNING	swManager_check_exit_status: worker#1[pid=403] abnormal exit, status=255, signal=0
+[2019-04-11 18:13:40 $434.0]	WARNING	swManager_check_exit_status: worker#0[pid=439] abnormal exit, status=255, signal=0
+[2019-04-11 18:13:40 $434.0]	WARNING	swManager_check_exit_status: worker#1[pid=440] abnormal exit, status=255, signal=0
+[2019-04-11 18:14:10 $434.0]	WARNING	swManager_check_exit_status: worker#0[pid=465] abnormal exit, status=255, signal=0
+[2019-04-11 18:14:10 $434.0]	WARNING	swManager_check_exit_status: worker#1[pid=466] abnormal exit, status=255, signal=0
+[2019-04-11 18:14:40 $434.0]	WARNING	swManager_check_exit_status: worker#0[pid=491] abnormal exit, status=255, signal=0
+[2019-04-11 18:14:40 $434.0]	WARNING	swManager_check_exit_status: worker#1[pid=492] abnormal exit, status=255, signal=0
+[2019-04-11 18:15:10 $434.0]	WARNING	swManager_check_exit_status: worker#0[pid=519] abnormal exit, status=255, signal=0
+[2019-04-11 18:15:10 $434.0]	WARNING	swManager_check_exit_status: worker#1[pid=520] abnormal exit, status=255, signal=0
+[2019-04-11 18:15:40 $434.0]	WARNING	swManager_check_exit_status: worker#0[pid=545] abnormal exit, status=255, signal=0
+[2019-04-11 18:15:40 $434.0]	WARNING	swManager_check_exit_status: worker#1[pid=547] abnormal exit, status=255, signal=0
+[2019-04-11 18:16:10 $434.0]	WARNING	swManager_check_exit_status: worker#0[pid=571] abnormal exit, status=255, signal=0
+[2019-04-11 18:16:10 $434.0]	WARNING	swManager_check_exit_status: worker#1[pid=573] abnormal exit, status=255, signal=0
+[2019-04-11 18:16:40 $434.0]	WARNING	swManager_check_exit_status: worker#0[pid=597] abnormal exit, status=255, signal=0
+[2019-04-11 18:16:40 $434.0]	WARNING	swManager_check_exit_status: worker#1[pid=599] abnormal exit, status=255, signal=0
+[2019-04-11 18:17:10 $434.0]	WARNING	swManager_check_exit_status: worker#0[pid=625] abnormal exit, status=255, signal=0
+[2019-04-11 18:17:10 $434.0]	WARNING	swManager_check_exit_status: worker#1[pid=626] abnormal exit, status=255, signal=0
+[2019-04-11 18:17:40 $434.0]	WARNING	swManager_check_exit_status: worker#0[pid=652] abnormal exit, status=255, signal=0
+[2019-04-11 18:17:40 $434.0]	WARNING	swManager_check_exit_status: worker#1[pid=653] abnormal exit, status=255, signal=0
+[2019-04-11 18:18:10 $434.0]	WARNING	swManager_check_exit_status: worker#0[pid=680] abnormal exit, status=255, signal=0
+[2019-04-11 18:18:10 $434.0]	WARNING	swManager_check_exit_status: worker#1[pid=681] abnormal exit, status=255, signal=0
+[2019-04-11 18:18:44 $715.0]	WARNING	swManager_check_exit_status: worker#0[pid=720] abnormal exit, status=255, signal=0
+[2019-04-11 18:18:44 $715.0]	WARNING	swManager_check_exit_status: worker#1[pid=721] abnormal exit, status=255, signal=0
+[2019-04-11 18:19:14 $715.0]	WARNING	swManager_check_exit_status: worker#0[pid=746] abnormal exit, status=255, signal=0
+[2019-04-11 18:19:14 $715.0]	WARNING	swManager_check_exit_status: worker#1[pid=747] abnormal exit, status=255, signal=0
+[2019-04-11 18:19:44 $715.0]	WARNING	swManager_check_exit_status: worker#0[pid=773] abnormal exit, status=255, signal=0
+[2019-04-11 18:19:44 $715.0]	WARNING	swManager_check_exit_status: worker#1[pid=774] abnormal exit, status=255, signal=0
+[2019-04-11 18:20:14 $715.0]	WARNING	swManager_check_exit_status: worker#0[pid=799] abnormal exit, status=255, signal=0
+[2019-04-11 18:20:14 $715.0]	WARNING	swManager_check_exit_status: worker#1[pid=800] abnormal exit, status=255, signal=0
+[2019-04-11 18:20:44 $715.0]	WARNING	swManager_check_exit_status: worker#0[pid=830] abnormal exit, status=255, signal=0
+[2019-04-11 18:20:44 $715.0]	WARNING	swManager_check_exit_status: worker#1[pid=831] abnormal exit, status=255, signal=0
+[2019-04-11 19:02:36 $3037.0]	WARNING	swManager_check_exit_status: worker#1[pid=3043] abnormal exit, status=255, signal=0
+[2019-04-11 19:03:16 $3106.0]	WARNING	swManager_check_exit_status: worker#0[pid=3111] abnormal exit, status=255, signal=0
+[2019-04-11 19:03:20 $3106.0]	WARNING	swManager_check_exit_status: worker#1[pid=3112] abnormal exit, status=255, signal=0
+[2019-04-11 19:03:25 $3106.0]	WARNING	swManager_check_exit_status: worker#0[pid=3116] abnormal exit, status=255, signal=0
+[2019-04-11 19:04:11 $3145.0]	WARNING	swManager_check_exit_status: worker#1[pid=3151] abnormal exit, status=255, signal=0
+[2019-04-11 21:52:12 ^4867.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1.
+[2019-04-11 21:52:12 ^4867.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1.
+[2019-04-11 21:52:12 *4869.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1.
+[2019-04-11 21:52:12 *4868.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1.
+[2019-04-11 21:52:12 #4862.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1.
+[2019-04-11 21:52:12 ^4866.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1.
+[2019-04-11 21:52:12 $4863.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1.
+[2019-04-12 17:50:51 *20109.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1.
+[2019-04-12 17:50:51 ^20106.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1.
+[2019-04-12 17:50:51 *20108.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1.
+[2019-04-12 17:50:51 *20109.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1.
+[2019-04-12 17:50:51 ^20106.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1.
+[2019-04-12 17:50:51 #20102.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1.
+[2019-04-12 17:50:51 ^20107.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1.
+[2019-04-12 17:50:51 $20103.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1.
+[2019-04-13 09:21:30 $20103.0]	WARNING	swManager_check_exit_status: worker#0[pid=20108] abnormal exit, status=255, signal=0
+[2019-04-13 09:21:45 $20103.0]	WARNING	swManager_check_exit_status: worker#1[pid=20109] abnormal exit, status=255, signal=0
+[2019-04-13 09:21:52 $20103.0]	WARNING	swManager_check_exit_status: worker#0[pid=19269] abnormal exit, status=255, signal=0
+[2019-04-13 09:21:55 $20103.0]	WARNING	swManager_check_exit_status: worker#1[pid=19282] abnormal exit, status=255, signal=0
+[2019-04-13 09:22:12 $20103.0]	WARNING	swManager_check_exit_status: worker#0[pid=19289] abnormal exit, status=255, signal=0
+[2019-04-13 09:22:18 $20103.0]	WARNING	swManager_check_exit_status: worker#1[pid=19292] abnormal exit, status=255, signal=0
+[2019-04-13 09:24:19 $20103.0]	WARNING	swManager_check_exit_status: worker#0[pid=19306] abnormal exit, status=0, signal=9
+[2019-04-13 09:24:22 $20103.0]	WARNING	swManager_check_exit_status: worker#1[pid=19312] abnormal exit, status=0, signal=9
+[2019-04-13 09:32:20 ^19729.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1.
+[2019-04-13 09:32:20 *19732.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1.
+[2019-04-13 09:32:20 *19731.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1.
+[2019-04-13 09:32:20 ^19730.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1.
+[2019-04-13 09:32:20 $19726.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1.
+[2019-04-13 09:32:20 #19725.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1.
+[2019-04-13 09:32:23 $19726.0]	WARNING	swManager_check_exit_status: worker#0[pid=19731] abnormal exit, status=255, signal=0
+[2019-04-13 10:20:55 *22247.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1.
+[2019-04-13 10:20:55 *22246.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1.
+[2019-04-13 10:20:55 $22241.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1.
+[2019-04-13 10:20:55 ^22245.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1.
+[2019-04-13 10:20:55 #22240.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1.
+[2019-04-13 10:20:55 ^22244.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1.
+[2019-04-13 10:20:56 $22241.0]	WARNING	swManager_check_exit_status: worker#0[pid=22246] abnormal exit, status=255, signal=0
+string(22) "shake success at fd :1"
+string(22) "shake success at fd :2"
+string(22) "shake success at fd :3"
+string(22) "shake success at fd :4"
+string(22) "shake success at fd :5"
+string(22) "shake success at fd :6"
+string(22) "shake success at fd :8"
+string(22) "shake success at fd :9"
+string(23) "shake success at fd :10"
+string(23) "shake success at fd :11"
+string(23) "shake success at fd :12"
+string(23) "shake success at fd :13"
+string(23) "shake success at fd :14"
+string(23) "shake success at fd :15"
+string(23) "shake success at fd :16"
+string(23) "shake success at fd :17"
+string(23) "shake success at fd :18"
+string(23) "shake success at fd :19"
+string(23) "shake success at fd :20"
+string(23) "shake success at fd :21"
+string(23) "shake success at fd :22"
+string(23) "shake success at fd :23"
+string(23) "shake success at fd :24"
+string(23) "shake success at fd :25"
+string(23) "shake success at fd :26"
+string(23) "shake success at fd :27"
+string(23) "shake success at fd :28"
+[2019-04-13 14:27:57][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:152]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+[2019-04-13 14:28:01][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:152]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+[2019-04-13 14:28:02][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:152]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+[2019-04-13 14:28:09][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:152]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+[2019-04-13 14:28:20][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:152]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+string(23) "shake success at fd :29"
+[2019-04-13 14:28:25][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:152]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+string(23) "shake success at fd :30"
+[2019-04-13 14:29:38][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:152]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+[2019-04-13 14:29:40][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:152]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+[2019-04-13 14:29:41][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:152]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+string(23) "shake success at fd :31"
+[2019-04-13 14:30:09][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:152]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+string(23) "shake success at fd :32"
+string(23) "shake success at fd :33"
+string(23) "shake success at fd :34"
+string(23) "shake success at fd :35"
+string(23) "shake success at fd :36"
+string(23) "shake success at fd :37"
+string(23) "shake success at fd :38"
+string(23) "shake success at fd :39"
+[2019-04-13 14:31:44][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:152]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+[2019-04-13 14:31:45][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:152]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+[2019-04-13 14:31:47][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:152]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+[2019-04-13 14:31:49][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:152]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+string(23) "shake success at fd :40"
+[2019-04-13 14:32:00][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:152]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+string(23) "shake success at fd :41"
+[2019-04-13 14:33:08][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:152]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+string(23) "shake success at fd :42"
+string(23) "shake success at fd :43"
+string(23) "shake success at fd :44"
+string(23) "shake success at fd :45"
+string(23) "shake success at fd :46"
+string(23) "shake success at fd :47"
+string(23) "shake success at fd :48"
+string(23) "shake success at fd :49"
+string(23) "shake success at fd :50"
+string(23) "shake success at fd :51"
+string(23) "shake success at fd :52"
+string(23) "shake success at fd :53"
+string(23) "shake success at fd :54"
+string(23) "shake success at fd :55"
+string(23) "shake success at fd :56"
+string(23) "shake success at fd :57"
+string(23) "shake success at fd :58"
+string(23) "shake success at fd :59"
+string(23) "shake success at fd :60"
+string(23) "shake success at fd :61"
+string(23) "shake success at fd :62"
+string(23) "shake success at fd :63"
+string(23) "shake success at fd :64"
+string(23) "shake success at fd :65"
+string(23) "shake success at fd :66"
+string(23) "shake success at fd :67"
+string(23) "shake success at fd :68"
+string(23) "shake success at fd :69"
+string(23) "shake success at fd :70"
+string(23) "shake success at fd :71"
+string(23) "shake success at fd :72"
+string(23) "shake success at fd :73"
+string(23) "shake success at fd :74"
+string(23) "shake success at fd :75"
+string(23) "shake success at fd :76"
+string(23) "shake success at fd :77"
+string(23) "shake success at fd :78"
+string(23) "shake success at fd :79"
+string(23) "shake success at fd :80"
+string(23) "shake success at fd :81"
+string(23) "shake success at fd :82"
+string(23) "shake success at fd :83"
+string(23) "shake success at fd :84"
+string(23) "shake success at fd :85"
+string(23) "shake success at fd :86"
+string(23) "shake success at fd :87"
+string(23) "shake success at fd :88"
+string(23) "shake success at fd :89"
+string(23) "shake success at fd :90"
+string(23) "shake success at fd :91"
+string(23) "shake success at fd :92"
+string(23) "shake success at fd :93"
+string(23) "shake success at fd :94"
+string(23) "shake success at fd :95"
+string(23) "shake success at fd :96"
+string(23) "shake success at fd :97"
+string(23) "shake success at fd :98"
+string(23) "shake success at fd :99"
+string(24) "shake success at fd :100"
+string(24) "shake success at fd :101"
+string(24) "shake success at fd :102"
+string(24) "shake success at fd :103"
+string(24) "shake success at fd :104"

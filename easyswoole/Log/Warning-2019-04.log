@@ -1,0 +1,118 @@
+[2019-04-10 10:45:34][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:69]Swoole\WebSocket\Server::push(): the connected client of connection[99] is not a websocket client or closed.
+[2019-04-10 10:45:34][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:69]Swoole\WebSocket\Server::push(): the connected client of connection[99] is not a websocket client or closed.
+[2019-04-10 13:07:25][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:69]Swoole\WebSocket\Server::push(): the connected client of connection[159] is not a websocket client or closed.
+[2019-04-10 13:07:25][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:69]Swoole\WebSocket\Server::push(): the connected client of connection[159] is not a websocket client or closed.
+[2019-04-10 13:41:03][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:74]Swoole\WebSocket\Server::push(): the connected client of connection[3] is not a websocket client or closed.
+[2019-04-10 13:41:03][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:74]Swoole\WebSocket\Server::push(): the connected client of connection[3] is not a websocket client or closed.
+[2019-04-10 15:59:10][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:39]json_decode() expects parameter 1 to be string, array given
+[2019-04-10 16:02:41][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:30]Illegal string offset 'username'
+[2019-04-10 16:02:41][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:30]Illegal string offset 'name'
+[2019-04-10 16:02:41][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:30]Illegal string offset 'username'
+[2019-04-10 16:02:41][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:30]Illegal string offset 'name'
+[2019-04-10 16:02:41][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:30]Illegal string offset 'username'
+[2019-04-10 16:02:41][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:30]Illegal string offset 'name'
+[2019-04-10 16:02:41][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:30]Illegal string offset 'username'
+[2019-04-10 16:02:41][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:30]Illegal string offset 'name'
+[2019-04-10 16:02:41][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:30]Illegal string offset 'username'
+[2019-04-10 16:02:41][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:30]Illegal string offset 'name'
+[2019-04-10 16:02:41][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:30]Illegal string offset 'username'
+[2019-04-10 16:02:41][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:30]Illegal string offset 'name'
+[2019-04-10 16:02:41][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:30]Illegal string offset 'username'
+[2019-04-10 16:02:41][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:30]Illegal string offset 'name'
+[2019-04-10 16:02:41][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:30]Illegal string offset 'username'
+[2019-04-10 16:02:41][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:30]Illegal string offset 'name'
+[2019-04-10 16:02:41][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:30]Illegal string offset 'username'
+[2019-04-10 16:02:41][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:30]Illegal string offset 'name'
+[2019-04-10 16:02:41][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:30]Illegal string offset 'username'
+[2019-04-10 16:02:41][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:30]Illegal string offset 'name'
+[2019-04-10 16:34:08][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php][line:40]call_user_func() expects parameter 1 to be a valid callback, no array or string given
+[2019-04-10 16:35:01][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php][line:40]call_user_func() expects parameter 1 to be a valid callback, no array or string given
+[2019-04-10 16:42:37][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:95]Swoole\WebSocket\Server::push(): the connected client of connection[20] is not a websocket client or closed.
+[2019-04-10 16:42:37][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:95]Swoole\WebSocket\Server::push(): the connected client of connection[20] is not a websocket client or closed.
+[2019-04-10 16:43:10][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code][line:6]Swoole\WebSocket\Server::push(): the connected client of connection[1] is not a websocket client or closed.
+[2019-04-10 16:57:43][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php][line:40]call_user_func() expects parameter 1 to be a valid callback, no array or string given
+[2019-04-10 16:58:21][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php][line:40]call_user_func() expects parameter 1 to be a valid callback, no array or string given
+[2019-04-10 17:45:01][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php][line:40]call_user_func() expects parameter 1 to be a valid callback, no array or string given
+[2019-04-10 17:49:26][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php][line:40]call_user_func() expects parameter 1 to be a valid callback, no array or string given
+[2019-04-10 17:49:53][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php][line:40]call_user_func() expects parameter 1 to be a valid callback, no array or string given
+[2019-04-10 17:50:31][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php][line:40]call_user_func() expects parameter 1 to be a valid callback, no array or string given
+[2019-04-10 17:51:58][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php][line:40]call_user_func() expects parameter 1 to be a valid callback, no array or string given
+[2019-04-10 17:53:18][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php][line:40]call_user_func() expects parameter 1 to be a valid callback, no array or string given
+[2019-04-10 17:53:40][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php][line:40]call_user_func() expects parameter 1 to be a valid callback, no array or string given
+[2019-04-10 17:53:41][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php][line:40]call_user_func() expects parameter 1 to be a valid callback, no array or string given
+[2019-04-10 17:54:15][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php][line:40]call_user_func() expects parameter 1 to be a valid callback, no array or string given
+[2019-04-10 17:54:54][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php][line:40]call_user_func() expects parameter 1 to be a valid callback, no array or string given
+[2019-04-10 17:55:11][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php][line:40]call_user_func() expects parameter 1 to be a valid callback, no array or string given
+[2019-04-10 17:55:31][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php][line:40]call_user_func() expects parameter 1 to be a valid callback, no array or string given
+[2019-04-10 17:55:46][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php][line:40]call_user_func() expects parameter 1 to be a valid callback, no array or string given
+[2019-04-10 17:56:59][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php][line:40]call_user_func() expects parameter 1 to be a valid callback, no array or string given
+[2019-04-10 17:57:51][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php][line:40]call_user_func() expects parameter 1 to be a valid callback, no array or string given
+[2019-04-10 18:03:02][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:49]Illegal string offset 'status'
+[2019-04-10 18:04:29][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:51]Illegal string offset 'status'
+[2019-04-10 18:10:20][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php][line:40]call_user_func() expects parameter 1 to be a valid callback, no array or string given
+[2019-04-10 18:10:32][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php][line:40]call_user_func() expects parameter 1 to be a valid callback, no array or string given
+[2019-04-11 09:02:48][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:33]Illegal string offset 'id'
+[2019-04-11 09:02:48][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:42]Illegal string offset 'status'
+[2019-04-11 09:06:17][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php][line:40]call_user_func() expects parameter 1 to be a valid callback, no array or string given
+[2019-04-11 09:06:30][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/jeremeamia/SuperClosure/src/SerializableClosure.php(210) : eval()'d code][line:6]Swoole\WebSocket\Server::push(): the connected client of connection[11] is not a websocket client or closed.
+[2019-04-11 09:06:36][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:82]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+[2019-04-11 09:08:14][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:82]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+[2019-04-11 09:17:13][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:82]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+[2019-04-11 09:18:19][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:82]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+[2019-04-11 09:23:08][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:84]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+[2019-04-11 09:25:56][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:88]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+[2019-04-11 09:26:46][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:90]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+[2019-04-11 09:27:45][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:88]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+[2019-04-11 09:27:47][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:88]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+[2019-04-11 09:27:48][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:88]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+[2019-04-11 09:28:16][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:88]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+[2019-04-11 09:28:56][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:90]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+[2019-04-11 09:31:10][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:90]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+[2019-04-11 09:31:13][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:90]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+[2019-04-11 09:31:27][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:90]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+[2019-04-11 09:49:39][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php][line:40]call_user_func() expects parameter 1 to be a valid callback, no array or string given
+[2019-04-11 11:53:34][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:90]Swoole\WebSocket\Server::push(): the connected client of connection[2] is not a websocket client or closed.
+[2019-04-11 11:55:08][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:90]Swoole\WebSocket\Server::push(): the connected client of connection[2] is not a websocket client or closed.
+[2019-04-11 11:55:31][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:90]Swoole\WebSocket\Server::push(): the connected client of connection[41] is not a websocket client or closed.
+[2019-04-11 12:12:30][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:91]Swoole\WebSocket\Server::push(): the connected client of connection[2] is not a websocket client or closed.
+[2019-04-11 13:04:03][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:92]Swoole\WebSocket\Server::push(): the connected client of connection[2] is not a websocket client or closed.
+[2019-04-11 13:07:55][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php][line:40]call_user_func() expects parameter 1 to be a valid callback, no array or string given
+[2019-04-11 13:07:59][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php][line:40]call_user_func() expects parameter 1 to be a valid callback, no array or string given
+[2019-04-11 13:08:27][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php][line:40]call_user_func() expects parameter 1 to be a valid callback, no array or string given
+[2019-04-11 13:08:29][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php][line:40]call_user_func() expects parameter 1 to be a valid callback, no array or string given
+[2019-04-11 13:24:55][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:75]Swoole\WebSocket\Server::push(): the connected client of connection[8] is not a websocket client or closed.
+[2019-04-11 14:14:05][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php][line:40]call_user_func() expects parameter 1 to be a valid callback, no array or string given
+[2019-04-11 14:50:01][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:81]Swoole\WebSocket\Server::push(): the connected client of connection[1] is not a websocket client or closed.
+[2019-04-11 16:44:04][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php][line:40]call_user_func() expects parameter 1 to be a valid callback, no array or string given
+[2019-04-11 16:44:06][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php][line:40]call_user_func() expects parameter 1 to be a valid callback, no array or string given
+[2019-04-11 16:44:15][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/vendor/easyswoole/easyswoole/src/Swoole/Task/SuperClosure.php][line:40]call_user_func() expects parameter 1 to be a valid callback, no array or string given
+[2019-04-11 17:00:06][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:115]Swoole\WebSocket\Server::push(): the connected client of connection[2] is not a websocket client or closed.
+[2019-04-11 17:00:10][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:115]Swoole\WebSocket\Server::push(): the connected client of connection[2] is not a websocket client or closed.
+[2019-04-11 17:00:13][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:115]Swoole\WebSocket\Server::push(): the connected client of connection[2] is not a websocket client or closed.
+[2019-04-11 17:00:29][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:115]Swoole\WebSocket\Server::push(): the connected client of connection[3] is not a websocket client or closed.
+[2019-04-11 17:00:32][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:115]Swoole\WebSocket\Server::push(): the connected client of connection[3] is not a websocket client or closed.
+[2019-04-11 17:01:50][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:115]Swoole\WebSocket\Server::push(): the connected client of connection[2] is not a websocket client or closed.
+[2019-04-11 17:02:06][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:115]Swoole\WebSocket\Server::push(): the connected client of connection[2] is not a websocket client or closed.
+[2019-04-11 17:02:23][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:115]Swoole\WebSocket\Server::push(): the connected client of connection[2] is not a websocket client or closed.
+[2019-04-11 17:02:29][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:115]Swoole\WebSocket\Server::push(): the connected client of connection[2] is not a websocket client or closed.
+[2019-04-11 17:04:03][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:118]Swoole\WebSocket\Server::push(): the connected client of connection[4] is not a websocket client or closed.
+[2019-04-11 18:42:26][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/HttpController/Index.php][line:53]count(): Parameter must be an array or an object that implements Countable
+[2019-04-11 18:43:25][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/HttpController/Index.php][line:56]count(): Parameter must be an array or an object that implements Countable
+[2019-04-11 18:45:42][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/HttpController/Index.php][line:55]Use of undefined constant time - assumed 'time' (this will throw an Error in a future version of PHP)
+[2019-04-11 18:47:00][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/HttpController/Index.php][line:55]Use of undefined constant time - assumed 'time' (this will throw an Error in a future version of PHP)
+[2019-04-13 14:27:57][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:152]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+[2019-04-13 14:28:01][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:152]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+[2019-04-13 14:28:02][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:152]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+[2019-04-13 14:28:09][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:152]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+[2019-04-13 14:28:20][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:152]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+[2019-04-13 14:28:25][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:152]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+[2019-04-13 14:29:38][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:152]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+[2019-04-13 14:29:40][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:152]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+[2019-04-13 14:29:41][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:152]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+[2019-04-13 14:30:09][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:152]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+[2019-04-13 14:31:44][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:152]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+[2019-04-13 14:31:45][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:152]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+[2019-04-13 14:31:47][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:152]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+[2019-04-13 14:31:49][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:152]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+[2019-04-13 14:32:00][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:152]Swoole\WebSocket\Server::push(): fd[0] is invalid.
+[2019-04-13 14:33:08][Warning][file:/www/wwwroot/wss.falv88.cn/easyswoole/App/WebSocket/LayIm.php][line:152]Swoole\WebSocket\Server::push(): fd[0] is invalid.
