@@ -29,4 +29,4 @@ CentOS + PHP
 
 仓库地址
 
-git clone https://gitee.com/zhangsanfengzhang/instant_messaging
+git clone https://github.com/henry0519/instant_messaging
